@@ -1,0 +1,6 @@
+print("hello world")
+print("welcome to python")
+print("class 1")
+print("batch 36/37")
+print("artificial intellgence") 
+print()
